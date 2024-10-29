@@ -40,10 +40,22 @@ role).
 ### Key Analysis Area:
 - Calculate overall attrition rate.
 - Calculate Total number of attrition.
-- Calculate the attrition count by Department, Education, and Age.
+- Calculate the attrition count by Department, Education, Gender and Age.
 - Calculate the attrition count by Job role and Eduction Field using a matrix
 
-### Attrition Rate Analysis
+### Attrition Count Analysis
 
 ![image](https://github.com/user-attachments/assets/3ca1aee9-d222-4852-8cf8-39ce893cd1fb)
+
+- *Insight*: The R$D department has the highest attrition count while the HR department has the lowest attrition count.
+
+![image](https://github.com/user-attachments/assets/2fdff0e1-827a-45e4-b19a-afe5c34ee26c)
+
+  - *Insight*: The Life Science Field has the highest attrition count, followed suit by Medical field while the Human Resources field has the lowest attrition count,
+
+![image](https://github.com/user-attachments/assets/f0cfc1cb-4121-445f-83c3-600f252c330c)
+
+- *Insight*: The female gender has the higher attrition count.
+
+
 

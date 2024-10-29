@@ -19,6 +19,12 @@ The dataset was derived from HR Datababe
 The datasets are provided as Excel files and includes various employee-related attributes. Load this 
 dataset into Power BI to perform all analyses and develop your interactive reports and dashboards
 
+### Key Columns
+- Attrition : Indicates if an employee left the company
+- Department and Role job : Employee's work area and position.
+- Gender: Either Male or Female.
+- Job Satisfaction Ratings:How satisfied employee are with the job.
+
 ### Data Cleaning and Preparation
 - Overview of data cleaning and preprocessing steps performed.
 - Handling missing values, data type conversions, and creating calculated columns.
@@ -36,4 +42,8 @@ role).
 - Calculate Total number of attrition.
 - Calculate the attrition count by Department, Education, and Age.
 - Calculate the attrition count by Job role and Eduction Field using a matrix
-- 
+
+### Attrition Rate Analysis
+
+![image](https://github.com/user-attachments/assets/3ca1aee9-d222-4852-8cf8-39ce893cd1fb)
+
